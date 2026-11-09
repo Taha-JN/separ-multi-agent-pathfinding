@@ -1,0 +1,7 @@
+Map,Edge Density (ρ_e),Traversable (ρ_t),Corridor Length (l_corr)
+random,0.0209,0.7969,3.4801
+mazes,0.02,0.7034,4.4857
+warehouse_wfi,0.0054,0.8419,3.0
+warehouse_small,0.0038,0.7777,14.6842
+warehouse_large,0.003,1.6402,13.2436
+warehouse_huge,0.002,2.2189,11.748
