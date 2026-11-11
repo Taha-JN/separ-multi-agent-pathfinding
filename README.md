@@ -4,7 +4,6 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
 [![Reinforcement Learning](https://img.shields.io/badge/RL-PPO%20%7C%20GAE-purple.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![CI: Passing](https://github.com/Taha-JN/01_separ-multi-agent-pathfinding/actions/workflows/ci.yml/badge.svg)](https://github.com/Taha-JN/01_separ-multi-agent-pathfinding/actions)
 
 ---
 
